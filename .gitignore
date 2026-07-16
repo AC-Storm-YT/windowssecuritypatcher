@@ -1,0 +1,36 @@
+# Visual Studio user state and caches
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet restores dependencies from packages.config
+packages/
+*.nupkg
+*.nuget.props
+*.nuget.targets
+
+# Generated/obfuscated build output
+Confused/
+
+# Test, coverage, and tooling output
+TestResults/
+*.coverage
+*.coveragexml
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
