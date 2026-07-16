@@ -11,7 +11,7 @@
 <p align="center">
   <img alt="Platform" src="https://img.shields.io/badge/platform-Windows%2011-0078D4">
   <img alt=".NET Framework" src="https://img.shields.io/badge/.NET%20Framework-4.8-512BD4">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.3.0-6CC04A">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-6CC04A">
 </p>
 
 > [!WARNING]
