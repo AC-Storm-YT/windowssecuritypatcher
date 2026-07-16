@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Windows Security Patcher/Resources/security-shield_15254520(1).png" alt="Windows Security Patcher shield" width="160">
+  <img src="iconwsp.png" alt="Windows Security Patcher shield" width="160">
 </p>
 
 <h1 align="center">Windows Security Patcher</h1>
